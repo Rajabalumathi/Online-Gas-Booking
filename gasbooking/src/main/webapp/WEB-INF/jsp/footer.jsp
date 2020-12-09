@@ -1,0 +1,1 @@
+ <center>Copyright &copy; 2020 Indane Gas</center>   
